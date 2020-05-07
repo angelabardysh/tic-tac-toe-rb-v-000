@@ -135,6 +135,6 @@ if won?(board) != false
   character = winner(board)
   puts "Congratulations #{character}!"
 elsif draw?(board)
-  puts "Cats Game!"
+  puts "Cat's Game!"
   end
   end
